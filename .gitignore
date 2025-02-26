@@ -1,0 +1,6 @@
+automate.o
+etat.o
+lexer.o
+main.o
+main.exe
+symbole.o
